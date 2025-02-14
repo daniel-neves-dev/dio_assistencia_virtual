@@ -4,7 +4,7 @@
 
 <h3>Objetivo:</h3>
 <p>Este projeto foi desenvolvido como parte do Bootcamp BairesDev - Machine Learning Practitioner, oferecido pela Digital Innovation One (DIO). 
-  Este desafio tem como objetivo gerar recomendações de compra a partir de uma única imagem, apresentando alternativas de objetos semelhantes.</p>
+ "Este desafio tem como objetivo simular comandos de voz, como abrir uma página da internet e gerar áudio a partir de um texto.</p>
   
 -------------------------------------------------------------------------------------------------------------
 
