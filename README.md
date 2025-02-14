@@ -14,14 +14,10 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-
 ## 👨‍💻 Tecnologias Usadas:
-- Python 3 v3.8
-- Numpy
-- Tensorflow
-- PIL
-- Annoy
-- Scipy
+- Python 3 v3.12
+- SpeechRecognition
+- PyAudio
 
 -----------------------------------------------------------
 ## ⚙ Instalação e Setup:
@@ -52,10 +48,23 @@ Se você usar conda ou miniconda:
 ```
 
 No terminal digite:
-
+- Para speech to text
 ```bash
   python3 speec_to_text.py
+```
+
+- Para text to speech
+```bash
   python3 test_to_speech.py
 ```
 -----------------------------------------------------------
-## ⚙ test_to_speech:
+## 💻 text_to_speech:
+<p>Ao executar o programa serão criados dois arquivos na raiz do programa:</p>
+<p>english.mp4 e portuguese.wav</p>
+<p>Clique para executar o áudio.</p>
+
+## 💻 speech_to_text:
+<p>Execute o programa e então utilizando um microfone diga: "Open Yotube"</p>
+<p>uma página do yotube deve abrir no navegador</p>
+<p>Execute o programa novamente e agora diga: "Open Google"</p>
+<p>uma página do google deve abrir no navegador</p>
