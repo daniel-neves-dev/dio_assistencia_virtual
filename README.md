@@ -41,15 +41,8 @@ Abrir a pasta do projeto:
 No terminal digite:
 
 ```bash
-  pip install numpy
-  pip install pillow
-  pip install tensorflow
-  pip install tensorflow_hub
-  pip install pandas
-  pip install tqdm
-  pip install matplotlib
-  pip install annoy
-  pip install scipy
+  pip install speech_recognition
+  pip install PyAudio
 ```
 
 No terminal digite:
