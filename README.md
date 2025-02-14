@@ -6,12 +6,6 @@
 <p>Este projeto foi desenvolvido como parte do Bootcamp BairesDev - Machine Learning Practitioner, oferecido pela Digital Innovation One (DIO). 
   Este desafio tem como objetivo gerar recomendações de compra a partir de uma única imagem, apresentando alternativas de objetos semelhantes.</p>
   
-<table>
-  <tr>
-    <td ><img src="", width="300" height="300"></td>
-    </tr>
-</table>
-
 -------------------------------------------------------------------------------------------------------------
 
 ## 👨‍💻 Tecnologias Usadas:
