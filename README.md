@@ -41,7 +41,7 @@ Abrir a pasta do projeto:
 No terminal digite:
 
 ```bash
-  pip install speech_recognition
+  pip install SpeechRecognition
   pip install PyAudio
 ```
 
