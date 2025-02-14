@@ -24,18 +24,18 @@
 - Scipy
 
 -----------------------------------------------------------
-## ⚙  Instalação e Setup:
+## ⚙ Instalação e Setup:
 
 Clonar o projeto:
 
 ```bash
-  git clone 
+  git clone https://github.com/daniel-neves-dev/dio_assistencia_virtual.git
 ```
 
 Abrir a pasta do projeto:
 
 ```bash
-  cd 
+  cd dio_assistencia_virtual
 ```
 
 No terminal digite:
@@ -43,10 +43,19 @@ No terminal digite:
 ```bash
   pip install SpeechRecognition
   pip install PyAudio
+  pip install gTTS
+```
+Se você usar conda ou miniconda:
+
+```bash
+  conda install -c conda-forge libstdcxx-ng  
 ```
 
 No terminal digite:
 
 ```bash
-  python3 main.py
+  python3 speec_to_text.py
+  python3 test_to_speech.py
 ```
+-----------------------------------------------------------
+## ⚙ test_to_speech:
